@@ -1,0 +1,3 @@
+function printThis(){
+window.print();
+}

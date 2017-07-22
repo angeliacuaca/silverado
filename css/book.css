@@ -1,0 +1,1156 @@
+
+.validationMsg {
+	font-weight: 600;
+	padding-bottom: 10px;
+}
+
+.QRcode img{
+	max-width: 300px;
+}
+
+.tics{
+	float: left;
+	margin: 1em 1em 1em 1em;
+}
+
+.Title{
+	clear: both;
+/* 	float: left; */
+	width: 30%;
+/* 	border: solid 1px; */
+	margin: 10px 60px;
+}
+
+.Titled p{
+	padding: 0;
+	float: left;
+	font-size: 1em !important;
+}
+
+.seat p{
+font-family: 'Droid Serif', serif;
+font-size: 1em !important;
+}
+
+.seat{
+float: left;
+	font-size: 1em;
+
+}
+.Title .schBtn{
+	min-width: 200px;
+min-height: 40px;
+		color:#272829;
+		background: #BAB3BA;
+	
+
+}
+
+.Title .schBtn:hover{
+	min-width: 200px;
+min-height: 40px;
+/* 	color: #ffffff !important; */
+		color:#272829;
+		background: #BAB3BA;
+	
+}
+
+.Title .schBtn p{
+	min-width: 200px;
+	padding: 10px;
+}
+
+.subpage{
+	margin: 0 auto;
+/* 	float: left; */
+}
+
+.subpage .ticMenu{
+	float: right;
+/* 	border: solid 1px; */
+}
+
+.ticInfos{
+	margin: 40px 40px;
+	float: left;
+}
+.ticMenu{
+	float: right;
+	clear: both;
+	padding: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	position: relative;
+}
+
+.cusInfo .recB{
+	clear: both;
+	float:left;
+	margin:30px -10px 0px 0px;
+}
+
+.ticRec{
+	display: block;
+/* float: left; */
+}
+
+	.reQR{
+	clear: both;
+	float:right;
+	padding: 10px;
+margin: 0px 20px;
+	max-width: 200px;
+	width: 20%;
+	display: inline-block;
+		box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+
+
+}
+.cusInfo {
+	float:left;
+	padding:30px;
+width: 38%;
+	font-size: 0.875em;
+	line-height: 22px;
+	text-align: left;
+	font-family: Cambria, Georgia, serif;
+
+	}
+
+.cusInfo #grandG{
+	font-size: 1.5em;
+	line-height: 40px;
+padding-left: 20px;
+
+}
+
+
+	.cusInfo h3{
+		font-size: 1.5em;
+		font-weight: bold;
+		font-style: normal;
+		font-family: 'Droid Serif', serif;
+		padding: 0;
+		margin: 10px 0px;
+	}
+
+
+.masthead img.logo {
+	position:relative;
+float: left;
+	width:25%;
+	padding-left: 10px;
+
+}
+
+.sns{
+	float: right;
+	position: relative;
+	height: 22px;
+	padding-top: 10px;
+	padding-right:20px;
+	clear: right;
+}
+
+.sns img{
+	padding-left: 5px;
+	height: 22px;
+	-webkit-transition: height 0.3s ease-in-out;
+-moz-transition: height 0.3s ease-in-out;
+-ms-transition: height 0.3s ease-in-out;
+-o-transition: height 0.3s ease-in-out;
+transition: height 0.3s ease-in-out;
+}
+
+.sns a:hover img{
+	height: 44px;
+		-webkit-transition: height 0.3s ease-in-out;
+-moz-transition: height 0.3s ease-in-out;
+-ms-transition: height 0.3s ease-in-out;
+-o-transition: height 0.3s ease-in-out;
+transition: height 0.3s ease-in-out;
+}
+
+.sns a span{
+	padding-top: 2px;
+	margin-left: -10px;
+}
+
+.sns span{
+	
+	font-size: 1em;
+	line-height: 22px;
+	text-align: left;
+/* 	font-style: italic; */
+		font-family: 'Droid Serif', serif;
+margin-left: -10px;
+	color: #ffffff !important;
+	clear: both;
+	float: right;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.snsD img{
+	float:right;
+	width: 20px;
+	height: 20px!important;
+	padding-top: 10px;
+}
+
+.snsD span{
+	float: left !important;
+}
+
+.snsD{
+	clear: both;
+/* 	border:solid 1px; */
+}
+
+.ticMenu a img{
+	height:40px;
+	padding: 5px;
+		-webkit-transition: height 0.3s ease-in-out;
+-moz-transition: height 0.3s ease-in-out;
+-ms-transition: height 0.3s ease-in-out;
+-o-transition: height 0.3s ease-in-out;
+transition: height 0.3s ease-in-out;
+}
+
+.ticMenu a:hover img{
+		top:-8px;
+	height: 50px;
+		-webkit-transition: height 0.3s ease-in-out;
+-moz-transition: height 0.3s ease-in-out;
+-ms-transition: height 0.3s ease-in-out;
+-o-transition: height 0.3s ease-in-out;
+transition: height 0.3s ease-in-out;
+}
+
+
+/*-----------------TICKET SELECTION CSS START------------------------*/
+
+.ticket{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 1em;
+	display:inline-block;
+	/*display: block;*/
+	width: auto;
+	min-width: 490px;
+	float: left;
+
+}
+
+.col p{
+	margin: 0;
+	padding: 0;
+}
+
+.ticOutter{
+	padding: 10px;
+		margin-top: 10px !important;
+	margin-left: 10px !important;
+}
+
+.ticket .ticOutter{
+/* 	margin-top: 10px !important; */
+/* 	margin-left: 10px !important; */
+}
+
+.ticOutter h2{
+	padding: -10px 5px;
+	margin: 0;
+}
+
+.ticInner{
+	margin-right: 5px;
+	padding: 5px 0px 5px 10px !important;
+	width:auto;
+	
+}
+
+.ticBorder{
+border: solid 1px #484848;
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+
+}
+
+.tichd{
+	overflow:hidden;
+	width: 100%;
+	zoom:1;
+	color: #EDEDF2;
+	background-color: #272829;
+}
+
+.ticbd{
+	font-size: 1em;
+	overflow:hidden;
+	width: 100%;
+	zoom:1;
+	color: #272829;
+/* 	background-color: #D7D7DA !important; */
+	background-color: #c7c3c9;
+/* 	box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1); */
+
+}
+
+.borderDot{
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+
+}
+
+.ticH1{
+	background-color: #c1c1c1;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	/*padding-right: 10px;*/
+}
+
+form{
+	display: block;
+}
+
+.row{
+overflow: hidden;
+display: block;
+}
+
+.rowBorder{
+	border-bottom: solid 1px #999;
+	border-top: solid 1px #999;
+	background-color: #eaeaea !important;
+}
+
+.col{
+	float: left;
+	padding-top: 5px;
+}
+
+.ticType{
+	width: 40%;
+	text-align: left;
+}
+
+.ticType .ticInner{
+		margin-top: 6px;
+}
+
+.ticQ{
+	width: 30% !important;
+	text-align: center;
+}
+
+.ticQ select{
+  background: linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%);
+  border-radius: 3px;
+  border: none;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2) inset, 0 -1px 0 rgba(0,0,0,0.05) inset;
+  -webkit-transition: all 0.2s linear;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 15px;
+  color: #222222;
+  height: 20px;
+  width: 70px;
+  top: 3px;
+  left: -24px;
+ 
+}
+
+.ticQ option{
+  /*background: linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%);*/
+  background: #ffffff;
+  border-radius: 3px;
+  border: none;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2) inset, 0 -1px 0 rgba(0,0,0,0.05) inset;
+  -webkit-transition: all 0.2s linear;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 15px;
+  color: #222222;
+  height: 20px;
+  width: 40px;
+  overflow: hidden;
+}
+
+.quantity{
+	width: 100%;
+}
+
+.ticPrice{
+	width: 15% !important;
+	text-align: center;
+}
+
+
+
+.ticSum{
+	/*display:table-cell;*/
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 1em;
+_float: right;
+width: auto;
+display: inline-block;
+min-width: 331px;
+max-width: 350px; 
+padding-bottom: 20px;
+}
+
+.ticSum input{
+	_display: inline-block;
+	float: right;
+}
+.ticSum .cSubmit{
+	float: none;
+	margin: 5px 5px 10px 20px;
+}
+
+.ticImg{
+	width: 100%;
+	display: inline-block;
+}
+.ticImg #movImg{
+	width: 180%;
+}
+#movRating{
+	width: 80px;
+}
+
+.ticDetails{
+	display: inline-block;
+	top: -10px;
+	position: relative;
+	padding: 10px 10px 10px 20px;
+	width: 38%
+}
+
+.sumRate{
+	display: block;
+	width: 100%;
+}
+
+#movRat{
+	display: table-cell;
+}
+#movGenre{
+	display: table-row;
+	font-size: 0.8em;
+}
+#movClass{
+	font-size: 0.8em;
+	display: table-row;
+}
+
+#sumPrice, #movPrice{
+	float:right;
+	font-size: 2em;
+}
+
+.bigSum{
+	font-size: 1.2em;
+	font-weight: bold;
+display: block;
+}
+
+.tickDetails label{
+	font-size: 0.9em;
+}
+.ticDetails p{
+	font-size: 1em;
+	font-weight: 600;
+}
+
+/*-----------------TICKET SELECTION CSS END------------------------*/
+
+.invisible{
+	display: none;
+}
+
+.payment input{
+	font-size: 0.85em !important;
+	margin-bottom: 20px;
+	border-radius: 8px;
+	margin-right: 10px
+}
+
+/*-----------------SCHEDULE SELECTION CSS START------------------------*/
+
+.schedule{
+	width: 45%;
+	_max-width: 300px;
+	display: inline-block;
+	_float: right;
+	/*box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);*/
+
+}
+
+.schbox{
+	margin: 10px;
+	border: solid 1px #888888;
+	height: 100%;
+		overflow: hidden;
+
+}
+.schTime{
+	font-weight: 40;
+	font-size: 1em;
+	content: #272829;
+	/*background-color: #c1c1c1;*/
+	margin-bottom: 5px;
+	padding-top: 5px;
+	padding-right: -20px;
+	width: 100%;
+
+	padding-left: 20px;
+	box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+}
+.schdays{
+	clear: left;
+	overflow: hidden;
+
+}
+
+.schDiv1{
+		text-align: center !important;
+	font-size: 1em;
+	_float: left;
+	display: table-cell;
+	_border-left: solid 1px #272829;
+	width: 50%;
+	margin: 5px 10px;
+}
+
+.schDiv2{
+		text-align: center !important;
+	font-size: 1em;
+	_float: left;
+	display: table-cell;
+	width: 45%;
+	margin: 5px 10px;
+}
+.schDiv3{
+	text-align: center !important;
+	font-size: 1em;
+	_clear: both;
+	display: table-cell;
+	width: 50%;
+	margin: 5px 10px;
+}
+.schDiv4{
+		text-align: center !important;
+	font-size: 1em;
+	_float: left;
+	display: table-cell;
+	width: 45%;
+	margin: 5px 10px;
+}
+
+.schBtn{
+	font-family: "Source Sans Pro", sans-serif;
+	text-align: center !important;
+	font-size: 0.95em !important;
+	_content: #000;
+	_float: left;
+	display: inline-block;
+	border-radius: 6px;
+	padding:10px;
+margin: 0 auto;
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+min-width: 70px;
+width: 70%;
+/*max-width: 100px;*/
+}
+
+.mini{
+	max-width: 100px;
+}
+
+.schBtn:hover{
+	min-width: 90px;
+		background:#272829;
+		color: #BAB3BA;
+}
+/*-----------------SCHEDULE SELECTION CSS END------------------------*/
+
+
+
+.col10{
+	width: 20%;
+	text-align: center;
+	_border: solid;
+
+}
+.col35{
+	width: 15% !important;
+	text-align: left !important;
+	font-size: 1em !important;
+	font-weight: 600;
+	
+}
+.colInner{
+	padding:10px;
+/* 	text-align: center; */
+}
+.colInner a{
+	font-size: 0.8em !important;
+	font-weight: 800;
+	line-height: 140% !important;
+	display: block;
+	border: solid 1px;
+}
+
+.newBtn{
+	font-family: "Source Sans Pro", sans-serif;
+	text-align: center !important;
+	/*font-size: 0.95em !important;*/
+	_content: #000;
+	_float: left;
+	display: inline-block;
+	border-radius: 6px;
+	padding:10px;
+margin: 0 auto;
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+min-width: 70px;
+width: 70%;
+/*top: 20px;*/
+/*max-width: 100px;*/
+}
+
+.mini{
+	max-width: 100px;
+}
+
+.newBtn:hover{
+		background:#272829;
+		color: #BAB3BA;
+}
+
+.hhBtn{
+	font-family: "Source Sans Pro", sans-serif;
+	text-align: center !important;
+	/*font-size: 0.95em !important;*/
+	_content: #000;
+	_float: left;
+	display: inline-block;
+	border-radius: 6px;
+	padding:10px;
+margin: 0 auto;
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+min-width: 70px;
+width: 70%;
+/*top: 20px;*/
+/*max-width: 100px;*/
+	background:#272829;
+		color: #BAB3BA;
+}
+
+.hhBtn:hover{
+		background: #BAB3BA;
+		color: #272829;
+}
+
+.newCol{
+	display: table-cell;
+}
+
+.newRow{
+	display: table-row;
+}
+
+.infoPrice{
+	float: left;
+	display: inline-block;
+	width: 40%;
+	padding: 20px;
+	padding-left: 40px;
+
+}
+
+.infoCon{
+	display: block;
+	height: 400px;
+}
+
+.prices{
+	float: right;
+	width: 50%;
+	font-size: 1em !important;
+}
+
+.priceticOutter{
+width:100%;
+	margin-left: -20px;
+	
+}
+
+.rowBorder2{
+	border-bottom: solid 1px #999;
+	border-top: solid 1px #999;
+	background-color: #999 !important;
+	font-weight: bold;
+}
+
+.beanbag{
+	padding-top: 10px;
+	float: right;
+}
+
+.colInner img{
+	width: 30%;
+}
+
+.newticOutter{
+	padding: 10px;
+	width:100px;
+}
+
+
+.allPrice{
+width: 30% !important;
+	text-align: center;
+}
+
+.priceType{
+	width: 40% !important;
+	text-align: left;
+}
+
+
+.playing{
+	_width: 1000px;
+	display: block;
+	font-size: 1em;
+	width: 100%;
+	padding-bottom: 30px;
+}
+
+.RESplaying{
+	diplay:none;
+}
+
+/*----------------------------CART---------------------*/
+.cartTable{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 1em;
+/* 	display: block; */
+	width: 90%;
+	margin: 0 auto;
+	padding: 15px;
+	min-width: 490px;
+/* 	float: left; */
+}
+.cartTable div{
+/* 	border: solid 1px; */
+}
+
+.cartTable .col{
+	border: solid 1px !important;
+}
+
+.cartTable hr{
+	margin: 10px auto;
+	width: 100%;
+}
+
+.rowTitle{
+	height: 20px;
+	padding: 5px 10px 0px 10px;
+	font-size: 1.2em;
+}
+.rowSession{
+	height: 20px;
+	padding: 0px 10px 0px 10px;
+	font-size: 1em;
+}
+
+
+.cartTable .ticH1{
+	margin-top: 10px;
+	background-color: #BAB3BA;
+	padding-bottom:0px;
+}
+
+
+.cartCon{
+/* 	border: solid 1px; */
+	border: solid 1px #484848;
+	margin-bottom: 5px;
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+
+}
+
+.cartT{
+	width: 25%;
+	text-align: left;
+	float: left;
+}
+
+.cartQ{
+	width: 10%;
+	padding-right: 8px;
+	text-align: center;
+		float: left;
+}
+.cartS{
+	width: 25% ;
+	padding-left: 0px;
+	text-align: left;
+		float: left;
+}
+
+.TotalS{
+		width: 25% ;
+	text-align: right;
+		float: left;
+/* 	border: 1px solid; */
+	margin-top: 3px;
+	margin-right: -10px;
+}
+.cartP{
+	width: 15%;
+	text-align: left;
+		float: left;
+}
+.cartSub{
+	width: 22.95% ;
+	float: right;
+	text-align: right;
+}
+
+
+.cartVoucher label{
+	margin-left: 20px;
+font-size: 1em;
+/* 	float: left; */
+}
+
+.cusVoucher{
+	float: left;
+	margin-left: 60px;
+	margin-top: -20px;
+	font-family: 'Droid Serif', serif;
+}
+
+#msgVoucher{
+	padding-left: 100px;
+	color: #520C10;
+	font-weight: 600;
+}
+
+img#loadingimg{
+    display: none;                   
+}
+
+.cusVoucher input {
+  background: linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%);
+  border-radius: 3px;
+  border: none;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2) inset, 0 -1px 0 rgba(0,0,0,0.05) inset;
+  -webkit-transition: all 0.2s linear;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 0.9em;
+  /*font-weight: bold;*/
+  color: #222222;
+  position: relative;
+  height: 36px;
+  width: 150px;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+.cusVoucher input::-webkit-input-placeholder{
+    color: #999999;
+    font: normal 0.8em/100% Verdana, Tahoma, sans-serif;
+   
+  }
+  
+ .cusVoucher input:-moz-placeholder {
+    color: #999999;
+    font: normal 0.8em/100% Verdana, Tahoma, sans-serif;
+  
+  }
+
+ .cusVoucher input:-ms-input-placeholder {
+    color: #999999;
+    font: normal 0.8em/100% Verdana, Tahoma, sans-serif;
+ 
+  }
+
+.cusVoucher input:focus{
+    box-shadow: 0 1px 0 #2392F3 inset, 0 -1px 0 #2392F3 inset, -1px 0 0 #2392F3, -1px 0 0 #2392F3 inset, 0 0 4px rgba(35,146,243,0.5);
+    outline: none;
+    background: #FFF;
+  }
+
+#sVoucher{
+padding: 0px;
+	margin:0 20px;;
+	
+}
+
+.grandCon{
+	clear: left;
+	padding: 3px;
+	border-bottom: dashed 1px;
+}
+.grandCon p{
+	font-size: 1em !important;
+}
+
+
+.cartFinal{
+	float:right;
+	margin-right:60px;
+	width: auto;
+	min-width: 440px;
+}
+
+.grandL{
+	width: 60%;
+	float:left;
+}
+
+.grandR{
+	width:30%;
+	float:right;
+	margin: 0;
+}
+
+.grandL p{
+	text-align: right !important;
+}
+
+#grandT, #discount{
+	text-align: right;
+	font-size: 1em;
+	padding-right: px;
+}
+
+#amountDue{
+	font-size: 1.5em !important;
+	padding: 5px;
+	text-align: right;
+}
+
+#totA{
+	font-weight: 600;
+	font-size: 1.2em !important;
+}
+
+.checkOutDiv{
+/* 	border: solid 1px; */
+	float:right;
+	margin-top: 15px;
+	min-width: 350px;
+}
+
+.checkOutDiv .cSubmit{
+	width: 120px;
+	text-align: center;
+	float: left;
+}
+
+#finalSubmit{
+	clear: none;
+	float: left;
+	
+}
+
+
+/*------------------CUSTOMER DETAILS-----------------------*/
+.cusName, .cusMobile, .cusSubmit, .cusEmail{
+	clear: left;
+padding: 10px 10px 0px 10px;
+}
+
+.cusSubmit, .cusV{
+	/*clear: left;*/
+	padding-left: 10px;
+	float: left;
+}
+
+.errorDiv{
+	clear:left;
+	float: left;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.errorMessage{
+	margin-left: 10px;
+}
+
+#msgMobile, #msgName, #msgEmail{
+	padding-left: 100px;
+	color: #520C10;
+	font-weight: 600;
+/* 	border: solid 1px; */
+	padding-top:0;
+}
+.greens{
+	color:#085933 !important;
+}
+/*
+.cName, .cMobile, .cSubmit, .cEmail{
+margin-left: 100px;
+}*/
+
+.customerCon label{
+	width:65px;
+	margin-right: 15px;
+	margin-left: 30px;
+font-size: 1em;
+	text-align: left;
+/* 	border: solid 1px; */
+	display: block;
+	float: left;
+	padding-top: 10px;
+}
+.pleaseFill{
+	font-size: 1.3em;
+	font-weight: 600;
+	margin-left: 50px;
+	margin-top:20px;
+	
+}
+.customerCon{
+	padding: 20px;
+	float: left;
+	font-family: 'Droid Serif', serif;
+	/*margin-top: 10px;*/
+}
+
+.customerCon input {
+  background: linear-gradient(to bottom, #f7f7f8 0%,#ffffff 100%);
+  border-radius: 3px;
+  border: none;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2) inset, 0 -1px 0 rgba(0,0,0,0.05) inset;
+  -webkit-transition: all 0.2s linear;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 0.9em;
+  /*font-weight: bold;*/
+  color: #222222;
+  position: relative;
+  height: 36px;
+  width: 270px;
+  padding-left: 20px;
+  margin-left: 10px;
+}
+.customerCon input::-webkit-input-placeholder{
+    color: #999999;
+    font: normal 0.8em/100% Verdana, Tahoma, sans-serif;
+   
+  }
+  
+ .customerCon input:-moz-placeholder {
+    color: #999999;
+    font: normal 0.8em/100% Verdana, Tahoma, sans-serif;
+  
+  }
+
+ .customerCon input:-ms-input-placeholder {
+    color: #999999;
+    font: normal 0.8em/100% Verdana, Tahoma, sans-serif;
+ 
+  }
+
+.customerCon input:focus{
+    box-shadow: 0 1px 0 #2392F3 inset, 0 -1px 0 #2392F3 inset, -1px 0 0 #2392F3, -1px 0 0 #2392F3 inset, 0 0 4px rgba(35,146,243,0.5);
+    outline: none;
+    background: #FFF;
+  }
+
+
+/* .cSubmit{
+	font-family: "Source Sans Pro", sans-serif;
+	text-align: center;
+	font-size: 0.95em;
+	display: inline-block;
+	border-radius: 6px;
+	padding:10px;
+margin: 0 auto;
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+min-width: 70px;
+width: 70%;
+}
+.cSubmit:hover{
+	min-width: 90px;
+		background:#272829;
+		color: #BAB3BA;
+} */
+
+.cSubmit {
+    overflow: visible;
+    position: relative;
+    float: right;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    height: 40px;
+    width: 110px;
+    font: bold 15px/40px 'lucida sans', 'trebuchet MS', 'Tahoma';
+    color: #272829;
+    text-transform: uppercase;
+    background-color: #BAB3BA;
+    border-radius: 3px 3px 3px 3px;     
+    text-shadow: 0 -1px 0 rgba(0, 0 ,0, .3);
+    margin-right: 60px;
+    text-align: center;
+}  
+   
+	.cSubmit:hover{    
+	    color: #BAB3BA;
+	     background-color: #272829;
+	    top:-2px;
+
+	}  
+	   
+.cSubmit:active,
+	.cSubmit:focus{  
+color: #BAB3BA;
+	     background-color: #272829;
+	    outline: 0; 
+	    top:5px; 
+	}
+	 
+.cSubmit:before { 
+	    content: '';
+	    position: absolute;
+	    border-width: 8px 8px 8px 8px;
+	    border-color: transparent #BAB3BA transparent;
+	    top: 12px;
+	    left: -6px;
+	}
+	 
+.cSubmit:hover:before{
+	    border-right-color: #e54040;
+	}
+	 
+.cSubmit:focus:before,
+	.cSubmit:active:before{
+	        border-right-color: #c42f2f;
+	}     
+	 
+.cSubmit::-moz-focus-inner { 
+	    border: 0;
+	    padding: 0;
+	} 
+
+	.saveDetails{
+		
+	}
+
+.boldy{
+	font-weight: 600;
+	padding-top: 3px;
+	padding-bottom: 5px;
+}
+
+.boldy .ticInner{
+	padding-top: 13px !important;
+}
+
+.bookM{
+	float: right !important;;
+}
